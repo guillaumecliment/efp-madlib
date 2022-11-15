@@ -1,0 +1,19 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  color: black;
+  font-size: 1em;
+  background-color: rgba(230, 238, 181, 0.879);
+  text-align: center;
+}
+
+.form_box {
+  background-color: rgb(244, 239, 239);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+  max-width: 70%;
+  padding: 1em;
+  margin: 0 auto;
+  text-align: right;
+  line-height: 2em;;
+}
